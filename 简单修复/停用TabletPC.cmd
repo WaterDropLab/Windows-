@@ -1,0 +1,1 @@
+dism /NoRestart /Quiet /Online /Disable-Feature /FeatureName:"TabletPCOC"
